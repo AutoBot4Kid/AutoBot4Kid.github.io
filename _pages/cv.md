@@ -7,6 +7,8 @@ redirect_from:
 ---
 
 📁 Download [here](/files/Youngjin_CV.pdf)
+![robot](/images/robot.png){: .align-center width="300px"}
+
 ======
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
