@@ -6,7 +6,7 @@ redirect_from:
   - /resume
 ---
 
-📁 Download [here](/files/Youngjin_CV.pdf)
+📁 Download [here](/images/meBot.jpg)
 ======
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
