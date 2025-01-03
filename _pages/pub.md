@@ -20,7 +20,7 @@ I am currently working on a book that is based on my Ph.D. research. Stay tuned 
 
 🧑‍🏫 Conference Proceeding
 ======
-- C Aluckal, R Lal, S Courtney, Y Turkar, Y Dighe, Y Kim, J Gemerek, K Dantu, **TERA: Simulation Environment for Terrain Excavation Robot Autonomy**, IEEE International Conference on Simulation, Modeling, and Programming for Autonomous Robots **[LINK] (https://droneslab.github.io/tera/)**           
+- C Aluckal, R Lal, S Courtney, Y Turkar, Y Dighe, Y Kim, J Gemerek, K Dantu, **TERA: Simulation Environment for Terrain Excavation Robot Autonomy**, IEEE International Conference on Simulation, Modeling, and Programming for Autonomous Robots **[LINK](https://droneslab.github.io/tera/)**           
 
 - S Beak, R Ayyalasomayajula, R St. Pierre, Y Kim, T Singh, **WiCoNByte: Wi-Fi Boosted On-Board Control and Navigation for cm-Scale Robots**, IEEE International Conference on
 Robotics and Automation **(Submitted)**
