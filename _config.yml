@@ -75,15 +75,15 @@ author:
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
-publication_category:
-  books:
-    title: '📖 Book'
-  manuscripts:
-    title: '📝 Journal Article'    
-  conferences:
-    title: '🧑‍🏫 Conference Proceeding'
-  thesis:
-   title: '📖 Thesis'
+# publication_category:
+#   books:
+#     title: '📖 Book'
+#   manuscripts:
+#     title: '📝 Journal Article'    
+#   conferences:
+#     title: '🧑‍🏫 Conference Proceeding'
+#   thesis:
+#    title: '📖 Thesis'
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
