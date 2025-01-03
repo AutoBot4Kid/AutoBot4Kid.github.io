@@ -24,7 +24,9 @@ author:
   avatar           : "meBot.jpg" #"profile.png"
   name             : "Youngjin Kim"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Researcher in Computer Science 💻 with a Ph.D. in Mechanical Engineering 🤖" 
+  bio              : "-Postdoctoral Researcher 
+  
+  | Ph.D. | Rotoic | Autonomous Systems | Control Thoery" 
   location         : "Buffalo, NY"
   employer         : "university at Buffalo"
   uri              : # URL
