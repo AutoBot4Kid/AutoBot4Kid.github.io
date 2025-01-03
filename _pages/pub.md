@@ -1,9 +1,7 @@
 ---
-permalink: /publicationlist/
+permalink: /pub/
 title: ""
 author_profile: true
-redirect_from: 
-  - /publicationlist/
 ---
 
 📖 Book
