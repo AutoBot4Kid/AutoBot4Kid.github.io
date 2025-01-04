@@ -8,4 +8,4 @@ redirect_from:
 
 📁 Download [here](/files/Youngjin_CV.pdf)
 ======
-![robot](/images/robot.png){: .align-center width="300px"}
+![robot](/images/bye.jpg){: .align-center width="300px"}
