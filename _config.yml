@@ -21,7 +21,7 @@ repository               : "AutoBot4Kid/AutoBot4Kid.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "robot2.png" #"profile.png"
+  avatar           : "robot.png" #"profile.png"
   name             : "Youngjin Kim"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher | Ph.D. | Control Thoery | Robotic | Autonomous Systems " 
