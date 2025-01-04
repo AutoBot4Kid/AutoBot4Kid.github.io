@@ -24,7 +24,7 @@ Intervention-Minimal Planning And Control on off-road Terrain
 <!-- <video width="640" height="360" controls>
   <source src="/videos/impact-intro.mp4" type="video/mp4">
 </video> -->
-XYZ 
+XYZ Test
 
 - **Members** : [Kartikeya Singh](https://www.linkedin.com/in/kartikeya-singh1/), [Yash Turkar](https://yash.turkar.in/)
 
@@ -37,7 +37,7 @@ Optimal Motion Planning for High Performance Racing Vehicle
 <video width="640" height="360" controls>
   <source src="/videos/f1tenth-demo.mp4" type="video/mp4">
 </video>
-XYZ
+XYZ Test
 
 - **Members** :  [Yashom Dighe](https://yashomdighe.com/)
 
