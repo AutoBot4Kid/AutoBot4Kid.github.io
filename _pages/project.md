@@ -8,10 +8,9 @@ Excavation Autonomy with Resilient Traversability and Handling
 ======
 <video width="640" height="360" controls>
   <source src="/videos/Excavator-intro.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
 
-XYZ (More : *[UB-NEWS](https://www.buffalo.edu/news/releases/2024/07/Moog-gift-engineering-autonomous-excavators.html)*, *[Project-Link](https://droneslab.github.io/EARTH/))
+XYZ (More : *[UB-NEWS](https://www.buffalo.edu/news/releases/2024/07/Moog-gift-engineering-autonomous-excavators.html)*, *[Project-Link](https://droneslab.github.io/EARTH/)*)
 
 - **Members** : [Yash Turkar](https://yash.turkar.in/), [Christo Aluckal](https://christoaluckal.com/), [Yashom Dighe](https://yashomdighe.com/), [Jake Gemerek](https://www.linkedin.com/in/jakegemerek/), [Sugheerth Sreedharan](https://www.linkedin.com/in/sugheerth-s-56006923a/), [Roopesh Vinodh Kumar Lal](https://www.linkedin.com/in/roopesh-vinodh-kumar-lal-82089a117/), [Alex Graziose](https://www.linkedin.com/in/alexander-graziose-131703158/), [Sean Courtney](https://www.linkedin.com/in/seancourtney271/), [Ishaan Malhotra](https://www.linkedin.com/in/ishaanmalhotra15/)
 
@@ -22,6 +21,9 @@ XYZ (More : *[UB-NEWS](https://www.buffalo.edu/news/releases/2024/07/Moog-gift-e
 
 Intervention-Minimal Planning And Control on off-road Terrain
 ======
+<video width="640" height="360" controls>
+  <source src="/videos/impact-intro.mp4" type="video/mp4">
+</video>
 XYZ 
 
 - **Members** : [Kartikeya Singh](https://www.linkedin.com/in/kartikeya-singh1/), [Yash Turkar](https://yash.turkar.in/)
@@ -32,6 +34,10 @@ XYZ
 
 Optimal Motion Planning for High Performance Racing Vehicle
 ======
+<video width="640" height="360" controls>
+  <source src="/videos/f1tenth-demo.mp4" type="video/mp4">
+</video>
+XYZ
 
 - **Members** :  [Yashom Dighe](https://yashomdighe.com/)
 
