@@ -21,9 +21,9 @@ XYZ (More : *[UB-NEWS](https://www.buffalo.edu/news/releases/2024/07/Moog-gift-e
 
 Intervention-Minimal Planning And Control on off-road Terrain
 ======
-<!-- <video width="640" height="360" controls>
-  <source src="/videos/impact-intro.mp4" type="video/mp4">
-</video> -->
+<video width="640" height="360" controls>
+  <source src="/videos/impact-video.mp4" type="video/mp4">
+</video>
 XYZ Test
 
 - **Members** : [Kartikeya Singh](https://www.linkedin.com/in/kartikeya-singh1/), [Yash Turkar](https://yash.turkar.in/)
