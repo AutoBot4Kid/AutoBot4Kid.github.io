@@ -40,3 +40,5 @@ Robotics and Automation **(Submitted)**
 - Y. Kim, **Advanced Motion Planning Strategies for Wheeled Mobile Robots: Performance, Efficiency, and Safety**, State University of New York at Buffalo (2024) **[LINK](https://www.proquest.com/docview/3104598146?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)**
 
 - Y. Kim, **Optimal Control of a Differential-Drive Mobile Robot**, State University of New York at Buffalo (2020) **[LINK](https://www.proquest.com/docview/2421533113?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)**
+
+👋 <small>*Feel free to email me if you'd like more information about my publications. I'm more than happy to share any details you need.*</small> 👋 
