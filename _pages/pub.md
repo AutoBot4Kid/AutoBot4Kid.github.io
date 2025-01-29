@@ -25,8 +25,7 @@ I am currently working on a book that is based on my Ph.D. research. Stay tuned 
 - S Beak, R Ayyalasomayajula, R St. Pierre, Y Kim, T Singh, **WiCoNByte: Wi-Fi Boosted On-Board Control and Navigation for cm-Scale Robots**, IEEE International Conference on
 Robotics and Automation **(Submitted)**
 
-- Y.  Kim, C. He, T. Singh, **Control Barrier Function based Energy Optimal Obstacles Avoidance for Point-to-Point Maneuvers**, Modeling, Estimation and Control Conference (2024) **(To Appear)**
-
+- Y.  Kim, C. He, T. Singh, **Control Barrier Function based Energy Optimal Obstacles Avoidance for Point-to-Point Maneuvers**, Modeling, Estimation and Control Conference (2024) **[LINK](hhttps://www.sciencedirect.com/science/article/pii/S240589632500103X?via%3Dihub)**
 - Y.  Kim,  T. Singh, **Energy Optimal Obstacle Avoidance Motion Planning for Wheeled Mobile Robots**, American Control Conference (2024) **[LINK](https://ieeexplore.ieee.org/document/10644836/authors#authors)**
 
 - Y. Dighe, Y.  Kim, S. Rajguru, Y. Turkar,  T.  Singh, K. Dantu, **Kinematics-Only Differential Flatness based Trajectory Tracking for Autonomous Racing**, IEEE International Conference on Intelligent Robots and Systems (2023) **[LINK](https://ieeexplore.ieee.org/document/10341603)**
